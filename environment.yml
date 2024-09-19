@@ -1,0 +1,6 @@
+name: pdf_ocr
+dependencies:
+  - pip
+  - python==3.12.*
+  - pip:
+    - -r requirements/requirements.txt
